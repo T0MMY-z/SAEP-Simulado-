@@ -1,0 +1,6 @@
+Tecnologias Utilizadas
+
+Camada		Tecnologias
+Frontend	React, Vite, Axios, React Router
+Backend		Node.js, Express, pg, cors
+Banco		PostgreSQL, pgAdmin
